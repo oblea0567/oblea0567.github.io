@@ -14,3 +14,8 @@ This is my camera effects project
 
 ***
 
+Storyscap
+
+this is my Storyscap project.  
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/obleaandrea/andrea-oblea-copy-copy-copy-copy" ></script>
